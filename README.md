@@ -29,23 +29,32 @@ L’interface est **partiellement bilingue (FR/EN)** et responsive.
 ```
 tableau-sante-mentale/
 ├── public/
-│ ├── index.html # Point d’ancrage HTML
-│ ├── sante_mentale_2000_2025.json # Données principales (line chart)
-│ ├── bar_chart_sante_mentale.json # Données dérivées (bar chart)
-│ └── comparaison_sexe_2025.json (optionnel)
+│   ├── bar_chart_sante_mentale.json      # Données du bar chart
+│   ├── favicon.ico                       # Icône du site
+│   ├── index.html                        # Fichier HTML principal
+│   ├── logo192.png                       # Icône mobile (PWA)
+│   ├── logo512.png                       # Icône haute résolution
+│   ├── manifest.json                     # Métadonnées PWA
+│   ├── robots.txt                        # Directive SEO
+│   └── sante_mentale_2000_2025.json      # Données du line chart
+│
 ├── src/
-│ ├── App.js # Composant principal avec logique des graphiques
-│ ├── App.css # Feuille de style principale
-│ ├── generateBarChart.js # Script de génération JSON (Node.js)
-│ └── index.js # Point d’entrée React
-├── .gitignore
-├── package.json
-├── package-lock.json
-└── README.md
+│   ├── App.js                            # Composant principal React
+│   ├── App.css                           # Styles du tableau de bord
+│   ├── generateBarChartData.js           # Script de génération JSON (optionnel)
+│   ├── generateData.js                   # Script de transformation de données (optionnel)
+│   ├── index.html                        # (peut être ignoré dans React, probablement erreur)
+│   └── index.js                          # Point d’entrée React
+│
+├── .gitignore                            # Fichiers/dossiers à ignorer par Git
+├── package.json                          # Dépendances et scripts du projet
+├── package-lock.json                     # Verrouillage des versions (npm)
+└── README.md                             # Documentation du projet
+
 ```
 
 
-> [Lien vers le site final hébergé](https://sjsalma.github.io/tableau-sante-mentale/)
+> [Lien vers le site final hébergé](https://sjsalma.github.io/tableau-de-bord/)
 
 ## 🌍 Fonctionnalités
 
