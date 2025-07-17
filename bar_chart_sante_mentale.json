@@ -1,0 +1,24 @@
+{
+  "2025": [
+    {
+      "trouble": "Dépression",
+      "Homme": 10.5,
+      "Femme": 14.9
+    },
+    {
+      "trouble": "Anxiété",
+      "Homme": 15.9,
+      "Femme": 21.2
+    },
+    {
+      "trouble": "Bipolarité",
+      "Homme": 3.3,
+      "Femme": 4.7
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "Homme": 5.5,
+      "Femme": 7.5
+    }
+  ]
+}
