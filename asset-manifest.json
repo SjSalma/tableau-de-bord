@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/tableau-de-bord/static/css/main.1a8f7af1.css",
-    "main.js": "/tableau-de-bord/static/js/main.c02e9598.js",
+    "main.js": "/tableau-de-bord/static/js/main.12ddae5e.js",
     "index.html": "/tableau-de-bord/index.html",
     "main.1a8f7af1.css.map": "/tableau-de-bord/static/css/main.1a8f7af1.css.map",
-    "main.c02e9598.js.map": "/tableau-de-bord/static/js/main.c02e9598.js.map"
+    "main.12ddae5e.js.map": "/tableau-de-bord/static/js/main.12ddae5e.js.map"
   },
   "entrypoints": [
     "static/css/main.1a8f7af1.css",
-    "static/js/main.c02e9598.js"
+    "static/js/main.12ddae5e.js"
   ]
 }
