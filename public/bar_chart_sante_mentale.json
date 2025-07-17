@@ -1,0 +1,3174 @@
+{
+  "2000": [
+    {
+      "trouble": "Dépression",
+      "region": "Île-de-France",
+      "Homme": 8.5,
+      "Femme": 12.5
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Île-de-France",
+      "Homme": 13.1,
+      "Femme": 18.6
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Île-de-France",
+      "Homme": 2.8,
+      "Femme": 4
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Île-de-France",
+      "Homme": 4.8,
+      "Femme": 5.4
+    },
+    {
+      "trouble": "Dépression",
+      "region": "Auvergne-Rhône-Alpes",
+      "Homme": 8.8,
+      "Femme": 11.3
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Auvergne-Rhône-Alpes",
+      "Homme": 13,
+      "Femme": 20.4
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Auvergne-Rhône-Alpes",
+      "Homme": 3,
+      "Femme": 3.4
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Auvergne-Rhône-Alpes",
+      "Homme": 4.2,
+      "Femme": 5.7
+    },
+    {
+      "trouble": "Dépression",
+      "region": "Nouvelle-Aquitaine",
+      "Homme": 9,
+      "Femme": 12.3
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Nouvelle-Aquitaine",
+      "Homme": 14.2,
+      "Femme": 18.2
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Nouvelle-Aquitaine",
+      "Homme": 1.9,
+      "Femme": 3.6
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Nouvelle-Aquitaine",
+      "Homme": 4.4,
+      "Femme": 5.9
+    },
+    {
+      "trouble": "Dépression",
+      "region": "Occitanie",
+      "Homme": 8.8,
+      "Femme": 12.8
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Occitanie",
+      "Homme": 13.3,
+      "Femme": 17.6
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Occitanie",
+      "Homme": 2.5,
+      "Femme": 3.3
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Occitanie",
+      "Homme": 5.2,
+      "Femme": 6
+    },
+    {
+      "trouble": "Dépression",
+      "region": "Hauts-de-France",
+      "Homme": 8.4,
+      "Femme": 12.3
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Hauts-de-France",
+      "Homme": 13.7,
+      "Femme": 18.8
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Hauts-de-France",
+      "Homme": 3,
+      "Femme": 4.3
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Hauts-de-France",
+      "Homme": 4.6,
+      "Femme": 6.1
+    }
+  ],
+  "2001": [
+    {
+      "trouble": "Dépression",
+      "region": "Île-de-France",
+      "Homme": 8.9,
+      "Femme": 12.1
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Île-de-France",
+      "Homme": 14,
+      "Femme": 18.5
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Île-de-France",
+      "Homme": 2.2,
+      "Femme": 4.3
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Île-de-France",
+      "Homme": 4.3,
+      "Femme": 6.2
+    },
+    {
+      "trouble": "Dépression",
+      "region": "Auvergne-Rhône-Alpes",
+      "Homme": 8.4,
+      "Femme": 13.1
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Auvergne-Rhône-Alpes",
+      "Homme": 12.9,
+      "Femme": 19.1
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Auvergne-Rhône-Alpes",
+      "Homme": 3,
+      "Femme": 3.9
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Auvergne-Rhône-Alpes",
+      "Homme": 4.9,
+      "Femme": 6.5
+    },
+    {
+      "trouble": "Dépression",
+      "region": "Nouvelle-Aquitaine",
+      "Homme": 8.1,
+      "Femme": 11.8
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Nouvelle-Aquitaine",
+      "Homme": 11.7,
+      "Femme": 18
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Nouvelle-Aquitaine",
+      "Homme": 3.2,
+      "Femme": 3.1
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Nouvelle-Aquitaine",
+      "Homme": 4.1,
+      "Femme": 5.8
+    },
+    {
+      "trouble": "Dépression",
+      "region": "Occitanie",
+      "Homme": 8.8,
+      "Femme": 11.7
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Occitanie",
+      "Homme": 12.4,
+      "Femme": 18.8
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Occitanie",
+      "Homme": 2.7,
+      "Femme": 4.3
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Occitanie",
+      "Homme": 4.5,
+      "Femme": 5.8
+    },
+    {
+      "trouble": "Dépression",
+      "region": "Hauts-de-France",
+      "Homme": 8.1,
+      "Femme": 11.7
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Hauts-de-France",
+      "Homme": 13.3,
+      "Femme": 19.3
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Hauts-de-France",
+      "Homme": 3,
+      "Femme": 3.9
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Hauts-de-France",
+      "Homme": 3.7,
+      "Femme": 5.6
+    }
+  ],
+  "2002": [
+    {
+      "trouble": "Dépression",
+      "region": "Île-de-France",
+      "Homme": 9.6,
+      "Femme": 12.4
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Île-de-France",
+      "Homme": 13.2,
+      "Femme": 18.4
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Île-de-France",
+      "Homme": 3.1,
+      "Femme": 3.8
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Île-de-France",
+      "Homme": 3.9,
+      "Femme": 6
+    },
+    {
+      "trouble": "Dépression",
+      "region": "Auvergne-Rhône-Alpes",
+      "Homme": 9.7,
+      "Femme": 11.1
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Auvergne-Rhône-Alpes",
+      "Homme": 12.7,
+      "Femme": 17.6
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Auvergne-Rhône-Alpes",
+      "Homme": 2.7,
+      "Femme": 4.1
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Auvergne-Rhône-Alpes",
+      "Homme": 4.7,
+      "Femme": 6.5
+    },
+    {
+      "trouble": "Dépression",
+      "region": "Nouvelle-Aquitaine",
+      "Homme": 8.9,
+      "Femme": 12.2
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Nouvelle-Aquitaine",
+      "Homme": 12.5,
+      "Femme": 17.7
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Nouvelle-Aquitaine",
+      "Homme": 3.1,
+      "Femme": 4.1
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Nouvelle-Aquitaine",
+      "Homme": 4.9,
+      "Femme": 5.7
+    },
+    {
+      "trouble": "Dépression",
+      "region": "Occitanie",
+      "Homme": 8.2,
+      "Femme": 11.8
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Occitanie",
+      "Homme": 12.7,
+      "Femme": 17.7
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Occitanie",
+      "Homme": 2.8,
+      "Femme": 3.8
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Occitanie",
+      "Homme": 4.3,
+      "Femme": 6.3
+    },
+    {
+      "trouble": "Dépression",
+      "region": "Hauts-de-France",
+      "Homme": 9,
+      "Femme": 13.5
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Hauts-de-France",
+      "Homme": 13.3,
+      "Femme": 18.4
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Hauts-de-France",
+      "Homme": 2.5,
+      "Femme": 3.6
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Hauts-de-France",
+      "Homme": 3.9,
+      "Femme": 6.7
+    }
+  ],
+  "2003": [
+    {
+      "trouble": "Dépression",
+      "region": "Île-de-France",
+      "Homme": 9.2,
+      "Femme": 12.8
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Île-de-France",
+      "Homme": 12.1,
+      "Femme": 18.7
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Île-de-France",
+      "Homme": 3.1,
+      "Femme": 4.4
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Île-de-France",
+      "Homme": 4.7,
+      "Femme": 6.9
+    },
+    {
+      "trouble": "Dépression",
+      "region": "Auvergne-Rhône-Alpes",
+      "Homme": 8.5,
+      "Femme": 12.9
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Auvergne-Rhône-Alpes",
+      "Homme": 13.8,
+      "Femme": 18.8
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Auvergne-Rhône-Alpes",
+      "Homme": 3,
+      "Femme": 5.1
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Auvergne-Rhône-Alpes",
+      "Homme": 4.5,
+      "Femme": 5.8
+    },
+    {
+      "trouble": "Dépression",
+      "region": "Nouvelle-Aquitaine",
+      "Homme": 8.1,
+      "Femme": 11.5
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Nouvelle-Aquitaine",
+      "Homme": 13.3,
+      "Femme": 18.5
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Nouvelle-Aquitaine",
+      "Homme": 2.6,
+      "Femme": 3.3
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Nouvelle-Aquitaine",
+      "Homme": 4,
+      "Femme": 6.1
+    },
+    {
+      "trouble": "Dépression",
+      "region": "Occitanie",
+      "Homme": 9.7,
+      "Femme": 12.3
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Occitanie",
+      "Homme": 13.1,
+      "Femme": 17.5
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Occitanie",
+      "Homme": 2.5,
+      "Femme": 3.9
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Occitanie",
+      "Homme": 4.5,
+      "Femme": 6.3
+    },
+    {
+      "trouble": "Dépression",
+      "region": "Hauts-de-France",
+      "Homme": 9.2,
+      "Femme": 14.1
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Hauts-de-France",
+      "Homme": 12.1,
+      "Femme": 18
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Hauts-de-France",
+      "Homme": 2.9,
+      "Femme": 4.5
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Hauts-de-France",
+      "Homme": 3.7,
+      "Femme": 5.9
+    }
+  ],
+  "2004": [
+    {
+      "trouble": "Dépression",
+      "region": "Île-de-France",
+      "Homme": 8.2,
+      "Femme": 13
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Île-de-France",
+      "Homme": 13.4,
+      "Femme": 17.1
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Île-de-France",
+      "Homme": 2.8,
+      "Femme": 3.7
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Île-de-France",
+      "Homme": 4.5,
+      "Femme": 6
+    },
+    {
+      "trouble": "Dépression",
+      "region": "Auvergne-Rhône-Alpes",
+      "Homme": 9,
+      "Femme": 13.3
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Auvergne-Rhône-Alpes",
+      "Homme": 13,
+      "Femme": 18.4
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Auvergne-Rhône-Alpes",
+      "Homme": 2.7,
+      "Femme": 4
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Auvergne-Rhône-Alpes",
+      "Homme": 4.5,
+      "Femme": 7.1
+    },
+    {
+      "trouble": "Dépression",
+      "region": "Nouvelle-Aquitaine",
+      "Homme": 8.1,
+      "Femme": 11.6
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Nouvelle-Aquitaine",
+      "Homme": 13.1,
+      "Femme": 17.8
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Nouvelle-Aquitaine",
+      "Homme": 2.7,
+      "Femme": 4.1
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Nouvelle-Aquitaine",
+      "Homme": 4.5,
+      "Femme": 6.2
+    },
+    {
+      "trouble": "Dépression",
+      "region": "Occitanie",
+      "Homme": 9.1,
+      "Femme": 12.9
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Occitanie",
+      "Homme": 14.8,
+      "Femme": 18.5
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Occitanie",
+      "Homme": 2.9,
+      "Femme": 4.1
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Occitanie",
+      "Homme": 4.6,
+      "Femme": 6.3
+    },
+    {
+      "trouble": "Dépression",
+      "region": "Hauts-de-France",
+      "Homme": 8.4,
+      "Femme": 12.6
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Hauts-de-France",
+      "Homme": 12.8,
+      "Femme": 16.8
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Hauts-de-France",
+      "Homme": 3.2,
+      "Femme": 3.7
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Hauts-de-France",
+      "Homme": 4.3,
+      "Femme": 6.5
+    }
+  ],
+  "2005": [
+    {
+      "trouble": "Dépression",
+      "region": "Île-de-France",
+      "Homme": 8.4,
+      "Femme": 12.9
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Île-de-France",
+      "Homme": 13,
+      "Femme": 19.4
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Île-de-France",
+      "Homme": 2.6,
+      "Femme": 3.3
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Île-de-France",
+      "Homme": 4.1,
+      "Femme": 6.2
+    },
+    {
+      "trouble": "Dépression",
+      "region": "Auvergne-Rhône-Alpes",
+      "Homme": 10.2,
+      "Femme": 11.8
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Auvergne-Rhône-Alpes",
+      "Homme": 14.3,
+      "Femme": 20.3
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Auvergne-Rhône-Alpes",
+      "Homme": 2.8,
+      "Femme": 3.8
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Auvergne-Rhône-Alpes",
+      "Homme": 3.8,
+      "Femme": 6.6
+    },
+    {
+      "trouble": "Dépression",
+      "region": "Nouvelle-Aquitaine",
+      "Homme": 8.6,
+      "Femme": 11.5
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Nouvelle-Aquitaine",
+      "Homme": 14.1,
+      "Femme": 18.6
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Nouvelle-Aquitaine",
+      "Homme": 2.6,
+      "Femme": 4.1
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Nouvelle-Aquitaine",
+      "Homme": 4.4,
+      "Femme": 6.6
+    },
+    {
+      "trouble": "Dépression",
+      "region": "Occitanie",
+      "Homme": 8.9,
+      "Femme": 14
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Occitanie",
+      "Homme": 13.3,
+      "Femme": 18.1
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Occitanie",
+      "Homme": 2.8,
+      "Femme": 3.9
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Occitanie",
+      "Homme": 3.8,
+      "Femme": 6.3
+    },
+    {
+      "trouble": "Dépression",
+      "region": "Hauts-de-France",
+      "Homme": 9.3,
+      "Femme": 12.7
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Hauts-de-France",
+      "Homme": 13.8,
+      "Femme": 17.8
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Hauts-de-France",
+      "Homme": 2,
+      "Femme": 3.8
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Hauts-de-France",
+      "Homme": 4.6,
+      "Femme": 5.8
+    }
+  ],
+  "2006": [
+    {
+      "trouble": "Dépression",
+      "region": "Île-de-France",
+      "Homme": 8.5,
+      "Femme": 13.1
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Île-de-France",
+      "Homme": 12.8,
+      "Femme": 19.6
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Île-de-France",
+      "Homme": 2.9,
+      "Femme": 3.5
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Île-de-France",
+      "Homme": 4.5,
+      "Femme": 6.2
+    },
+    {
+      "trouble": "Dépression",
+      "region": "Auvergne-Rhône-Alpes",
+      "Homme": 9.7,
+      "Femme": 12.2
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Auvergne-Rhône-Alpes",
+      "Homme": 12.4,
+      "Femme": 19.2
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Auvergne-Rhône-Alpes",
+      "Homme": 3.5,
+      "Femme": 3.8
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Auvergne-Rhône-Alpes",
+      "Homme": 4.9,
+      "Femme": 5.9
+    },
+    {
+      "trouble": "Dépression",
+      "region": "Nouvelle-Aquitaine",
+      "Homme": 9.6,
+      "Femme": 11.7
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Nouvelle-Aquitaine",
+      "Homme": 13.7,
+      "Femme": 18.1
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Nouvelle-Aquitaine",
+      "Homme": 3.1,
+      "Femme": 4.3
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Nouvelle-Aquitaine",
+      "Homme": 4.9,
+      "Femme": 6.7
+    },
+    {
+      "trouble": "Dépression",
+      "region": "Occitanie",
+      "Homme": 8.9,
+      "Femme": 14.5
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Occitanie",
+      "Homme": 13.4,
+      "Femme": 19.7
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Occitanie",
+      "Homme": 3,
+      "Femme": 3.4
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Occitanie",
+      "Homme": 4.7,
+      "Femme": 6.3
+    },
+    {
+      "trouble": "Dépression",
+      "region": "Hauts-de-France",
+      "Homme": 9.3,
+      "Femme": 12.3
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Hauts-de-France",
+      "Homme": 13.9,
+      "Femme": 18.4
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Hauts-de-France",
+      "Homme": 2.8,
+      "Femme": 4.2
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Hauts-de-France",
+      "Homme": 4.8,
+      "Femme": 6.6
+    }
+  ],
+  "2007": [
+    {
+      "trouble": "Dépression",
+      "region": "Île-de-France",
+      "Homme": 8.8,
+      "Femme": 12.2
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Île-de-France",
+      "Homme": 12.6,
+      "Femme": 18.6
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Île-de-France",
+      "Homme": 3,
+      "Femme": 4.1
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Île-de-France",
+      "Homme": 5.1,
+      "Femme": 6.8
+    },
+    {
+      "trouble": "Dépression",
+      "region": "Auvergne-Rhône-Alpes",
+      "Homme": 9.1,
+      "Femme": 13
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Auvergne-Rhône-Alpes",
+      "Homme": 14,
+      "Femme": 19.3
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Auvergne-Rhône-Alpes",
+      "Homme": 2.8,
+      "Femme": 4.1
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Auvergne-Rhône-Alpes",
+      "Homme": 4.6,
+      "Femme": 6
+    },
+    {
+      "trouble": "Dépression",
+      "region": "Nouvelle-Aquitaine",
+      "Homme": 8.7,
+      "Femme": 13.2
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Nouvelle-Aquitaine",
+      "Homme": 13.8,
+      "Femme": 17.9
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Nouvelle-Aquitaine",
+      "Homme": 2.9,
+      "Femme": 4.5
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Nouvelle-Aquitaine",
+      "Homme": 4.4,
+      "Femme": 6.1
+    },
+    {
+      "trouble": "Dépression",
+      "region": "Occitanie",
+      "Homme": 8.6,
+      "Femme": 13.3
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Occitanie",
+      "Homme": 14.4,
+      "Femme": 20.8
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Occitanie",
+      "Homme": 2.9,
+      "Femme": 3.9
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Occitanie",
+      "Homme": 5,
+      "Femme": 6.3
+    },
+    {
+      "trouble": "Dépression",
+      "region": "Hauts-de-France",
+      "Homme": 8.8,
+      "Femme": 12.8
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Hauts-de-France",
+      "Homme": 13.2,
+      "Femme": 20.1
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Hauts-de-France",
+      "Homme": 3.1,
+      "Femme": 4
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Hauts-de-France",
+      "Homme": 4.5,
+      "Femme": 6.5
+    }
+  ],
+  "2008": [
+    {
+      "trouble": "Dépression",
+      "region": "Île-de-France",
+      "Homme": 9.2,
+      "Femme": 11.9
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Île-de-France",
+      "Homme": 12.8,
+      "Femme": 19.1
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Île-de-France",
+      "Homme": 3.5,
+      "Femme": 4.2
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Île-de-France",
+      "Homme": 4.8,
+      "Femme": 6.3
+    },
+    {
+      "trouble": "Dépression",
+      "region": "Auvergne-Rhône-Alpes",
+      "Homme": 9.2,
+      "Femme": 13.6
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Auvergne-Rhône-Alpes",
+      "Homme": 13.9,
+      "Femme": 19.2
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Auvergne-Rhône-Alpes",
+      "Homme": 2.7,
+      "Femme": 3.8
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Auvergne-Rhône-Alpes",
+      "Homme": 4.9,
+      "Femme": 6.5
+    },
+    {
+      "trouble": "Dépression",
+      "region": "Nouvelle-Aquitaine",
+      "Homme": 9.5,
+      "Femme": 12.7
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Nouvelle-Aquitaine",
+      "Homme": 15.3,
+      "Femme": 19.9
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Nouvelle-Aquitaine",
+      "Homme": 3.4,
+      "Femme": 4.1
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Nouvelle-Aquitaine",
+      "Homme": 4.8,
+      "Femme": 6.7
+    },
+    {
+      "trouble": "Dépression",
+      "region": "Occitanie",
+      "Homme": 9.4,
+      "Femme": 12.6
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Occitanie",
+      "Homme": 14,
+      "Femme": 18.8
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Occitanie",
+      "Homme": 2.8,
+      "Femme": 3.3
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Occitanie",
+      "Homme": 4.3,
+      "Femme": 6.6
+    },
+    {
+      "trouble": "Dépression",
+      "region": "Hauts-de-France",
+      "Homme": 8.8,
+      "Femme": 11.9
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Hauts-de-France",
+      "Homme": 14.5,
+      "Femme": 19.6
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Hauts-de-France",
+      "Homme": 2.7,
+      "Femme": 4.3
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Hauts-de-France",
+      "Homme": 4.9,
+      "Femme": 6.9
+    }
+  ],
+  "2009": [
+    {
+      "trouble": "Dépression",
+      "region": "Île-de-France",
+      "Homme": 10,
+      "Femme": 12
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Île-de-France",
+      "Homme": 14.7,
+      "Femme": 19.4
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Île-de-France",
+      "Homme": 3.1,
+      "Femme": 4.3
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Île-de-France",
+      "Homme": 4.9,
+      "Femme": 6
+    },
+    {
+      "trouble": "Dépression",
+      "region": "Auvergne-Rhône-Alpes",
+      "Homme": 10.3,
+      "Femme": 14.4
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Auvergne-Rhône-Alpes",
+      "Homme": 13.8,
+      "Femme": 18.8
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Auvergne-Rhône-Alpes",
+      "Homme": 2.9,
+      "Femme": 4.5
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Auvergne-Rhône-Alpes",
+      "Homme": 4.3,
+      "Femme": 6.4
+    },
+    {
+      "trouble": "Dépression",
+      "region": "Nouvelle-Aquitaine",
+      "Homme": 9.7,
+      "Femme": 12.9
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Nouvelle-Aquitaine",
+      "Homme": 14.9,
+      "Femme": 20.1
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Nouvelle-Aquitaine",
+      "Homme": 3,
+      "Femme": 4.2
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Nouvelle-Aquitaine",
+      "Homme": 4.6,
+      "Femme": 6.4
+    },
+    {
+      "trouble": "Dépression",
+      "region": "Occitanie",
+      "Homme": 9.4,
+      "Femme": 12.3
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Occitanie",
+      "Homme": 13.3,
+      "Femme": 20.4
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Occitanie",
+      "Homme": 2.8,
+      "Femme": 3.9
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Occitanie",
+      "Homme": 4.8,
+      "Femme": 7.1
+    },
+    {
+      "trouble": "Dépression",
+      "region": "Hauts-de-France",
+      "Homme": 8.6,
+      "Femme": 13.1
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Hauts-de-France",
+      "Homme": 13.8,
+      "Femme": 19.6
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Hauts-de-France",
+      "Homme": 2.8,
+      "Femme": 4.2
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Hauts-de-France",
+      "Homme": 5.1,
+      "Femme": 6.3
+    }
+  ],
+  "2010": [
+    {
+      "trouble": "Dépression",
+      "region": "Île-de-France",
+      "Homme": 9.9,
+      "Femme": 12.6
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Île-de-France",
+      "Homme": 14.6,
+      "Femme": 17.7
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Île-de-France",
+      "Homme": 3.5,
+      "Femme": 4.8
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Île-de-France",
+      "Homme": 4.9,
+      "Femme": 6.2
+    },
+    {
+      "trouble": "Dépression",
+      "region": "Auvergne-Rhône-Alpes",
+      "Homme": 10.1,
+      "Femme": 14.9
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Auvergne-Rhône-Alpes",
+      "Homme": 15.2,
+      "Femme": 19.6
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Auvergne-Rhône-Alpes",
+      "Homme": 2.8,
+      "Femme": 4.6
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Auvergne-Rhône-Alpes",
+      "Homme": 5.3,
+      "Femme": 6.9
+    },
+    {
+      "trouble": "Dépression",
+      "region": "Nouvelle-Aquitaine",
+      "Homme": 9.4,
+      "Femme": 12.8
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Nouvelle-Aquitaine",
+      "Homme": 14,
+      "Femme": 20.1
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Nouvelle-Aquitaine",
+      "Homme": 3.5,
+      "Femme": 3.8
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Nouvelle-Aquitaine",
+      "Homme": 4.3,
+      "Femme": 6.4
+    },
+    {
+      "trouble": "Dépression",
+      "region": "Occitanie",
+      "Homme": 9.6,
+      "Femme": 12.3
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Occitanie",
+      "Homme": 13.1,
+      "Femme": 19.7
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Occitanie",
+      "Homme": 2.5,
+      "Femme": 4.7
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Occitanie",
+      "Homme": 4.8,
+      "Femme": 6.8
+    },
+    {
+      "trouble": "Dépression",
+      "region": "Hauts-de-France",
+      "Homme": 8.7,
+      "Femme": 12
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Hauts-de-France",
+      "Homme": 14.4,
+      "Femme": 19.6
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Hauts-de-France",
+      "Homme": 3.4,
+      "Femme": 4.2
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Hauts-de-France",
+      "Homme": 5,
+      "Femme": 6.4
+    }
+  ],
+  "2011": [
+    {
+      "trouble": "Dépression",
+      "region": "Île-de-France",
+      "Homme": 9.7,
+      "Femme": 12.8
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Île-de-France",
+      "Homme": 14.3,
+      "Femme": 19.7
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Île-de-France",
+      "Homme": 2.8,
+      "Femme": 3.7
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Île-de-France",
+      "Homme": 5,
+      "Femme": 5.9
+    },
+    {
+      "trouble": "Dépression",
+      "region": "Auvergne-Rhône-Alpes",
+      "Homme": 9.3,
+      "Femme": 12.4
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Auvergne-Rhône-Alpes",
+      "Homme": 14.8,
+      "Femme": 19.7
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Auvergne-Rhône-Alpes",
+      "Homme": 2.9,
+      "Femme": 4.3
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Auvergne-Rhône-Alpes",
+      "Homme": 4.6,
+      "Femme": 7.1
+    },
+    {
+      "trouble": "Dépression",
+      "region": "Nouvelle-Aquitaine",
+      "Homme": 9.1,
+      "Femme": 13.7
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Nouvelle-Aquitaine",
+      "Homme": 14.2,
+      "Femme": 20.8
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Nouvelle-Aquitaine",
+      "Homme": 3.4,
+      "Femme": 3.5
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Nouvelle-Aquitaine",
+      "Homme": 3.9,
+      "Femme": 6.8
+    },
+    {
+      "trouble": "Dépression",
+      "region": "Occitanie",
+      "Homme": 8.4,
+      "Femme": 12.3
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Occitanie",
+      "Homme": 14.4,
+      "Femme": 21.5
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Occitanie",
+      "Homme": 2.8,
+      "Femme": 4.1
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Occitanie",
+      "Homme": 5,
+      "Femme": 6.9
+    },
+    {
+      "trouble": "Dépression",
+      "region": "Hauts-de-France",
+      "Homme": 10.4,
+      "Femme": 12.7
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Hauts-de-France",
+      "Homme": 13.6,
+      "Femme": 17.9
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Hauts-de-France",
+      "Homme": 2.8,
+      "Femme": 4.8
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Hauts-de-France",
+      "Homme": 4.8,
+      "Femme": 6.7
+    }
+  ],
+  "2012": [
+    {
+      "trouble": "Dépression",
+      "region": "Île-de-France",
+      "Homme": 10.3,
+      "Femme": 13.5
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Île-de-France",
+      "Homme": 14.5,
+      "Femme": 20.5
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Île-de-France",
+      "Homme": 2.7,
+      "Femme": 4.5
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Île-de-France",
+      "Homme": 4.2,
+      "Femme": 6.7
+    },
+    {
+      "trouble": "Dépression",
+      "region": "Auvergne-Rhône-Alpes",
+      "Homme": 9.4,
+      "Femme": 13.7
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Auvergne-Rhône-Alpes",
+      "Homme": 15,
+      "Femme": 20.9
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Auvergne-Rhône-Alpes",
+      "Homme": 2.9,
+      "Femme": 4.2
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Auvergne-Rhône-Alpes",
+      "Homme": 4.7,
+      "Femme": 6.5
+    },
+    {
+      "trouble": "Dépression",
+      "region": "Nouvelle-Aquitaine",
+      "Homme": 10.7,
+      "Femme": 13.7
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Nouvelle-Aquitaine",
+      "Homme": 14.3,
+      "Femme": 20.1
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Nouvelle-Aquitaine",
+      "Homme": 3.4,
+      "Femme": 4.5
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Nouvelle-Aquitaine",
+      "Homme": 4.5,
+      "Femme": 6.7
+    },
+    {
+      "trouble": "Dépression",
+      "region": "Occitanie",
+      "Homme": 10.7,
+      "Femme": 13.2
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Occitanie",
+      "Homme": 14.9,
+      "Femme": 20.6
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Occitanie",
+      "Homme": 3.6,
+      "Femme": 4.5
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Occitanie",
+      "Homme": 4.6,
+      "Femme": 7.4
+    },
+    {
+      "trouble": "Dépression",
+      "region": "Hauts-de-France",
+      "Homme": 9.3,
+      "Femme": 13.6
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Hauts-de-France",
+      "Homme": 14.5,
+      "Femme": 19.6
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Hauts-de-France",
+      "Homme": 2.8,
+      "Femme": 4.1
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Hauts-de-France",
+      "Homme": 5.2,
+      "Femme": 7.1
+    }
+  ],
+  "2013": [
+    {
+      "trouble": "Dépression",
+      "region": "Île-de-France",
+      "Homme": 9.6,
+      "Femme": 13.6
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Île-de-France",
+      "Homme": 13.7,
+      "Femme": 20.3
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Île-de-France",
+      "Homme": 3.3,
+      "Femme": 4.2
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Île-de-France",
+      "Homme": 5,
+      "Femme": 6.4
+    },
+    {
+      "trouble": "Dépression",
+      "region": "Auvergne-Rhône-Alpes",
+      "Homme": 10.1,
+      "Femme": 14.1
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Auvergne-Rhône-Alpes",
+      "Homme": 14.7,
+      "Femme": 19.8
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Auvergne-Rhône-Alpes",
+      "Homme": 3.1,
+      "Femme": 4.4
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Auvergne-Rhône-Alpes",
+      "Homme": 5.2,
+      "Femme": 6.6
+    },
+    {
+      "trouble": "Dépression",
+      "region": "Nouvelle-Aquitaine",
+      "Homme": 9.9,
+      "Femme": 13.9
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Nouvelle-Aquitaine",
+      "Homme": 13.9,
+      "Femme": 18.8
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Nouvelle-Aquitaine",
+      "Homme": 2.5,
+      "Femme": 4
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Nouvelle-Aquitaine",
+      "Homme": 5.2,
+      "Femme": 6.3
+    },
+    {
+      "trouble": "Dépression",
+      "region": "Occitanie",
+      "Homme": 10,
+      "Femme": 12.8
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Occitanie",
+      "Homme": 14.7,
+      "Femme": 20
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Occitanie",
+      "Homme": 3.7,
+      "Femme": 4.3
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Occitanie",
+      "Homme": 5,
+      "Femme": 7.1
+    },
+    {
+      "trouble": "Dépression",
+      "region": "Hauts-de-France",
+      "Homme": 10.8,
+      "Femme": 12.8
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Hauts-de-France",
+      "Homme": 14.6,
+      "Femme": 19.4
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Hauts-de-France",
+      "Homme": 2.7,
+      "Femme": 4
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Hauts-de-France",
+      "Homme": 4.4,
+      "Femme": 7
+    }
+  ],
+  "2014": [
+    {
+      "trouble": "Dépression",
+      "region": "Île-de-France",
+      "Homme": 9.8,
+      "Femme": 13.8
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Île-de-France",
+      "Homme": 14.2,
+      "Femme": 20.7
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Île-de-France",
+      "Homme": 3.1,
+      "Femme": 4.1
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Île-de-France",
+      "Homme": 5.2,
+      "Femme": 6.9
+    },
+    {
+      "trouble": "Dépression",
+      "region": "Auvergne-Rhône-Alpes",
+      "Homme": 10.4,
+      "Femme": 12.4
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Auvergne-Rhône-Alpes",
+      "Homme": 14.5,
+      "Femme": 20.3
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Auvergne-Rhône-Alpes",
+      "Homme": 3.3,
+      "Femme": 4.7
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Auvergne-Rhône-Alpes",
+      "Homme": 4.4,
+      "Femme": 6.5
+    },
+    {
+      "trouble": "Dépression",
+      "region": "Nouvelle-Aquitaine",
+      "Homme": 9,
+      "Femme": 13
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Nouvelle-Aquitaine",
+      "Homme": 14.8,
+      "Femme": 21.3
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Nouvelle-Aquitaine",
+      "Homme": 3.3,
+      "Femme": 4.4
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Nouvelle-Aquitaine",
+      "Homme": 5.3,
+      "Femme": 6.7
+    },
+    {
+      "trouble": "Dépression",
+      "region": "Occitanie",
+      "Homme": 9.1,
+      "Femme": 14.6
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Occitanie",
+      "Homme": 15.6,
+      "Femme": 21.5
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Occitanie",
+      "Homme": 2.7,
+      "Femme": 4.2
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Occitanie",
+      "Homme": 4.5,
+      "Femme": 6.3
+    },
+    {
+      "trouble": "Dépression",
+      "region": "Hauts-de-France",
+      "Homme": 10.4,
+      "Femme": 14.5
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Hauts-de-France",
+      "Homme": 16.1,
+      "Femme": 20
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Hauts-de-France",
+      "Homme": 3.2,
+      "Femme": 4.3
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Hauts-de-France",
+      "Homme": 4.5,
+      "Femme": 6.6
+    }
+  ],
+  "2015": [
+    {
+      "trouble": "Dépression",
+      "region": "Île-de-France",
+      "Homme": 9.1,
+      "Femme": 14
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Île-de-France",
+      "Homme": 15,
+      "Femme": 21.5
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Île-de-France",
+      "Homme": 3.1,
+      "Femme": 4.4
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Île-de-France",
+      "Homme": 5.1,
+      "Femme": 6.9
+    },
+    {
+      "trouble": "Dépression",
+      "region": "Auvergne-Rhône-Alpes",
+      "Homme": 9.5,
+      "Femme": 14.6
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Auvergne-Rhône-Alpes",
+      "Homme": 15.1,
+      "Femme": 20.8
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Auvergne-Rhône-Alpes",
+      "Homme": 3.6,
+      "Femme": 4.5
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Auvergne-Rhône-Alpes",
+      "Homme": 5.6,
+      "Femme": 7.4
+    },
+    {
+      "trouble": "Dépression",
+      "region": "Nouvelle-Aquitaine",
+      "Homme": 10.6,
+      "Femme": 14.7
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Nouvelle-Aquitaine",
+      "Homme": 15,
+      "Femme": 21
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Nouvelle-Aquitaine",
+      "Homme": 2.8,
+      "Femme": 4.4
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Nouvelle-Aquitaine",
+      "Homme": 4.4,
+      "Femme": 7.3
+    },
+    {
+      "trouble": "Dépression",
+      "region": "Occitanie",
+      "Homme": 9.7,
+      "Femme": 14.3
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Occitanie",
+      "Homme": 15.8,
+      "Femme": 20.2
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Occitanie",
+      "Homme": 3.6,
+      "Femme": 3.8
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Occitanie",
+      "Homme": 4.2,
+      "Femme": 7.1
+    },
+    {
+      "trouble": "Dépression",
+      "region": "Hauts-de-France",
+      "Homme": 8.7,
+      "Femme": 12.8
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Hauts-de-France",
+      "Homme": 14.9,
+      "Femme": 20.1
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Hauts-de-France",
+      "Homme": 2.6,
+      "Femme": 3.8
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Hauts-de-France",
+      "Homme": 4.5,
+      "Femme": 6.9
+    }
+  ],
+  "2016": [
+    {
+      "trouble": "Dépression",
+      "region": "Île-de-France",
+      "Homme": 9.2,
+      "Femme": 13.9
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Île-de-France",
+      "Homme": 13.9,
+      "Femme": 20.6
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Île-de-France",
+      "Homme": 3.3,
+      "Femme": 4
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Île-de-France",
+      "Homme": 5.3,
+      "Femme": 7.6
+    },
+    {
+      "trouble": "Dépression",
+      "region": "Auvergne-Rhône-Alpes",
+      "Homme": 10.5,
+      "Femme": 15.2
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Auvergne-Rhône-Alpes",
+      "Homme": 15.5,
+      "Femme": 19
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Auvergne-Rhône-Alpes",
+      "Homme": 2.3,
+      "Femme": 4.6
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Auvergne-Rhône-Alpes",
+      "Homme": 5,
+      "Femme": 6.8
+    },
+    {
+      "trouble": "Dépression",
+      "region": "Nouvelle-Aquitaine",
+      "Homme": 9.9,
+      "Femme": 13
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Nouvelle-Aquitaine",
+      "Homme": 14.1,
+      "Femme": 21.8
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Nouvelle-Aquitaine",
+      "Homme": 3.5,
+      "Femme": 4.1
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Nouvelle-Aquitaine",
+      "Homme": 4.5,
+      "Femme": 7.1
+    },
+    {
+      "trouble": "Dépression",
+      "region": "Occitanie",
+      "Homme": 10.2,
+      "Femme": 14.3
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Occitanie",
+      "Homme": 14.3,
+      "Femme": 20.2
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Occitanie",
+      "Homme": 3.1,
+      "Femme": 4.2
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Occitanie",
+      "Homme": 5.2,
+      "Femme": 6.1
+    },
+    {
+      "trouble": "Dépression",
+      "region": "Hauts-de-France",
+      "Homme": 9.7,
+      "Femme": 13.3
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Hauts-de-France",
+      "Homme": 14.1,
+      "Femme": 19.9
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Hauts-de-France",
+      "Homme": 3.2,
+      "Femme": 4.3
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Hauts-de-France",
+      "Homme": 5.2,
+      "Femme": 6.9
+    }
+  ],
+  "2017": [
+    {
+      "trouble": "Dépression",
+      "region": "Île-de-France",
+      "Homme": 9.8,
+      "Femme": 12.5
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Île-de-France",
+      "Homme": 14.3,
+      "Femme": 21.2
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Île-de-France",
+      "Homme": 3.1,
+      "Femme": 4.3
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Île-de-France",
+      "Homme": 5.4,
+      "Femme": 6.5
+    },
+    {
+      "trouble": "Dépression",
+      "region": "Auvergne-Rhône-Alpes",
+      "Homme": 10,
+      "Femme": 12.8
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Auvergne-Rhône-Alpes",
+      "Homme": 14.1,
+      "Femme": 21.5
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Auvergne-Rhône-Alpes",
+      "Homme": 2.9,
+      "Femme": 4.3
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Auvergne-Rhône-Alpes",
+      "Homme": 4.6,
+      "Femme": 7.9
+    },
+    {
+      "trouble": "Dépression",
+      "region": "Nouvelle-Aquitaine",
+      "Homme": 9.5,
+      "Femme": 14.9
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Nouvelle-Aquitaine",
+      "Homme": 15.9,
+      "Femme": 22.2
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Nouvelle-Aquitaine",
+      "Homme": 3.4,
+      "Femme": 4.4
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Nouvelle-Aquitaine",
+      "Homme": 5.2,
+      "Femme": 7.5
+    },
+    {
+      "trouble": "Dépression",
+      "region": "Occitanie",
+      "Homme": 10.1,
+      "Femme": 13.9
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Occitanie",
+      "Homme": 14.5,
+      "Femme": 21.7
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Occitanie",
+      "Homme": 3.3,
+      "Femme": 4.3
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Occitanie",
+      "Homme": 5.5,
+      "Femme": 6.8
+    },
+    {
+      "trouble": "Dépression",
+      "region": "Hauts-de-France",
+      "Homme": 10,
+      "Femme": 13.3
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Hauts-de-France",
+      "Homme": 15.4,
+      "Femme": 18.9
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Hauts-de-France",
+      "Homme": 3.1,
+      "Femme": 3.9
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Hauts-de-France",
+      "Homme": 5.5,
+      "Femme": 7.2
+    }
+  ],
+  "2018": [
+    {
+      "trouble": "Dépression",
+      "region": "Île-de-France",
+      "Homme": 11.1,
+      "Femme": 13.8
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Île-de-France",
+      "Homme": 14.5,
+      "Femme": 19
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Île-de-France",
+      "Homme": 3.5,
+      "Femme": 3.9
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Île-de-France",
+      "Homme": 5.2,
+      "Femme": 7.1
+    },
+    {
+      "trouble": "Dépression",
+      "region": "Auvergne-Rhône-Alpes",
+      "Homme": 10.5,
+      "Femme": 14.4
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Auvergne-Rhône-Alpes",
+      "Homme": 14.7,
+      "Femme": 21.7
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Auvergne-Rhône-Alpes",
+      "Homme": 3.6,
+      "Femme": 4.2
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Auvergne-Rhône-Alpes",
+      "Homme": 4.8,
+      "Femme": 7
+    },
+    {
+      "trouble": "Dépression",
+      "region": "Nouvelle-Aquitaine",
+      "Homme": 9.9,
+      "Femme": 12.5
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Nouvelle-Aquitaine",
+      "Homme": 14.8,
+      "Femme": 20.3
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Nouvelle-Aquitaine",
+      "Homme": 2.8,
+      "Femme": 4
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Nouvelle-Aquitaine",
+      "Homme": 4.5,
+      "Femme": 7
+    },
+    {
+      "trouble": "Dépression",
+      "region": "Occitanie",
+      "Homme": 10.5,
+      "Femme": 13.9
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Occitanie",
+      "Homme": 15.4,
+      "Femme": 20.1
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Occitanie",
+      "Homme": 3.5,
+      "Femme": 3.6
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Occitanie",
+      "Homme": 5.1,
+      "Femme": 6.8
+    },
+    {
+      "trouble": "Dépression",
+      "region": "Hauts-de-France",
+      "Homme": 10.2,
+      "Femme": 14.8
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Hauts-de-France",
+      "Homme": 16.2,
+      "Femme": 20.2
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Hauts-de-France",
+      "Homme": 3,
+      "Femme": 4.5
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Hauts-de-France",
+      "Homme": 5.3,
+      "Femme": 6.8
+    }
+  ],
+  "2019": [
+    {
+      "trouble": "Dépression",
+      "region": "Île-de-France",
+      "Homme": 10.1,
+      "Femme": 15
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Île-de-France",
+      "Homme": 15.5,
+      "Femme": 21
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Île-de-France",
+      "Homme": 3.2,
+      "Femme": 4.5
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Île-de-France",
+      "Homme": 5.1,
+      "Femme": 7.2
+    },
+    {
+      "trouble": "Dépression",
+      "region": "Auvergne-Rhône-Alpes",
+      "Homme": 10,
+      "Femme": 13.6
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Auvergne-Rhône-Alpes",
+      "Homme": 15.8,
+      "Femme": 20.5
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Auvergne-Rhône-Alpes",
+      "Homme": 3.3,
+      "Femme": 4.8
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Auvergne-Rhône-Alpes",
+      "Homme": 5.5,
+      "Femme": 7
+    },
+    {
+      "trouble": "Dépression",
+      "region": "Nouvelle-Aquitaine",
+      "Homme": 10.5,
+      "Femme": 14.4
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Nouvelle-Aquitaine",
+      "Homme": 16.9,
+      "Femme": 21.3
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Nouvelle-Aquitaine",
+      "Homme": 3.2,
+      "Femme": 4.6
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Nouvelle-Aquitaine",
+      "Homme": 4.9,
+      "Femme": 7.1
+    },
+    {
+      "trouble": "Dépression",
+      "region": "Occitanie",
+      "Homme": 10.5,
+      "Femme": 13.3
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Occitanie",
+      "Homme": 16,
+      "Femme": 20.6
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Occitanie",
+      "Homme": 3.8,
+      "Femme": 4.6
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Occitanie",
+      "Homme": 6.1,
+      "Femme": 6.8
+    },
+    {
+      "trouble": "Dépression",
+      "region": "Hauts-de-France",
+      "Homme": 10.5,
+      "Femme": 14.1
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Hauts-de-France",
+      "Homme": 15.2,
+      "Femme": 21.1
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Hauts-de-France",
+      "Homme": 3.1,
+      "Femme": 4.6
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Hauts-de-France",
+      "Homme": 4.8,
+      "Femme": 7.3
+    }
+  ],
+  "2020": [
+    {
+      "trouble": "Dépression",
+      "region": "Île-de-France",
+      "Homme": 16.9,
+      "Femme": 20.3
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Île-de-France",
+      "Homme": 21.6,
+      "Femme": 25
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Île-de-France",
+      "Homme": 4.6,
+      "Femme": 6.5
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Île-de-France",
+      "Homme": 8,
+      "Femme": 10.4
+    },
+    {
+      "trouble": "Dépression",
+      "region": "Auvergne-Rhône-Alpes",
+      "Homme": 14.5,
+      "Femme": 21.6
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Auvergne-Rhône-Alpes",
+      "Homme": 22.8,
+      "Femme": 23.8
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Auvergne-Rhône-Alpes",
+      "Homme": 5.2,
+      "Femme": 6.8
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Auvergne-Rhône-Alpes",
+      "Homme": 8.1,
+      "Femme": 11.4
+    },
+    {
+      "trouble": "Dépression",
+      "region": "Nouvelle-Aquitaine",
+      "Homme": 14.6,
+      "Femme": 21.7
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Nouvelle-Aquitaine",
+      "Homme": 21.9,
+      "Femme": 24.1
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Nouvelle-Aquitaine",
+      "Homme": 4.8,
+      "Femme": 6.4
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Nouvelle-Aquitaine",
+      "Homme": 7.7,
+      "Femme": 10.8
+    },
+    {
+      "trouble": "Dépression",
+      "region": "Occitanie",
+      "Homme": 16.4,
+      "Femme": 21.2
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Occitanie",
+      "Homme": 21,
+      "Femme": 25
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Occitanie",
+      "Homme": 4.7,
+      "Femme": 6.9
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Occitanie",
+      "Homme": 7.9,
+      "Femme": 10.4
+    },
+    {
+      "trouble": "Dépression",
+      "region": "Hauts-de-France",
+      "Homme": 15,
+      "Femme": 21
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Hauts-de-France",
+      "Homme": 22.8,
+      "Femme": 24.8
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Hauts-de-France",
+      "Homme": 4.8,
+      "Femme": 6.6
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Hauts-de-France",
+      "Homme": 7.6,
+      "Femme": 11.1
+    }
+  ],
+  "2021": [
+    {
+      "trouble": "Dépression",
+      "region": "Île-de-France",
+      "Homme": 15.7,
+      "Femme": 21.5
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Île-de-France",
+      "Homme": 21.1,
+      "Femme": 25
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Île-de-France",
+      "Homme": 4.2,
+      "Femme": 7.1
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Île-de-France",
+      "Homme": 7.7,
+      "Femme": 10.8
+    },
+    {
+      "trouble": "Dépression",
+      "region": "Auvergne-Rhône-Alpes",
+      "Homme": 15.7,
+      "Femme": 21.2
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Auvergne-Rhône-Alpes",
+      "Homme": 21.7,
+      "Femme": 24.3
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Auvergne-Rhône-Alpes",
+      "Homme": 4.3,
+      "Femme": 7.2
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Auvergne-Rhône-Alpes",
+      "Homme": 8,
+      "Femme": 10.6
+    },
+    {
+      "trouble": "Dépression",
+      "region": "Nouvelle-Aquitaine",
+      "Homme": 16.7,
+      "Femme": 20.4
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Nouvelle-Aquitaine",
+      "Homme": 22.5,
+      "Femme": 24.1
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Nouvelle-Aquitaine",
+      "Homme": 4.6,
+      "Femme": 6.7
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Nouvelle-Aquitaine",
+      "Homme": 8.1,
+      "Femme": 10.8
+    },
+    {
+      "trouble": "Dépression",
+      "region": "Occitanie",
+      "Homme": 16.4,
+      "Femme": 19.8
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Occitanie",
+      "Homme": 22.2,
+      "Femme": 25
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Occitanie",
+      "Homme": 5.6,
+      "Femme": 7.2
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Occitanie",
+      "Homme": 7.1,
+      "Femme": 11.4
+    },
+    {
+      "trouble": "Dépression",
+      "region": "Hauts-de-France",
+      "Homme": 16.2,
+      "Femme": 22.5
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Hauts-de-France",
+      "Homme": 22.3,
+      "Femme": 25
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Hauts-de-France",
+      "Homme": 4.8,
+      "Femme": 6.7
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Hauts-de-France",
+      "Homme": 8.4,
+      "Femme": 9.6
+    }
+  ],
+  "2022": [
+    {
+      "trouble": "Dépression",
+      "region": "Île-de-France",
+      "Homme": 16.9,
+      "Femme": 21.1
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Île-de-France",
+      "Homme": 21.8,
+      "Femme": 24.7
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Île-de-France",
+      "Homme": 4.5,
+      "Femme": 7.3
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Île-de-France",
+      "Homme": 7.1,
+      "Femme": 10.6
+    },
+    {
+      "trouble": "Dépression",
+      "region": "Auvergne-Rhône-Alpes",
+      "Homme": 17.4,
+      "Femme": 21.8
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Auvergne-Rhône-Alpes",
+      "Homme": 22.5,
+      "Femme": 25
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Auvergne-Rhône-Alpes",
+      "Homme": 4.5,
+      "Femme": 7.1
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Auvergne-Rhône-Alpes",
+      "Homme": 8.3,
+      "Femme": 10.3
+    },
+    {
+      "trouble": "Dépression",
+      "region": "Nouvelle-Aquitaine",
+      "Homme": 16.6,
+      "Femme": 23
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Nouvelle-Aquitaine",
+      "Homme": 22,
+      "Femme": 25
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Nouvelle-Aquitaine",
+      "Homme": 4.5,
+      "Femme": 6.4
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Nouvelle-Aquitaine",
+      "Homme": 8.2,
+      "Femme": 10.9
+    },
+    {
+      "trouble": "Dépression",
+      "region": "Occitanie",
+      "Homme": 15.9,
+      "Femme": 21.9
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Occitanie",
+      "Homme": 21.7,
+      "Femme": 24.1
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Occitanie",
+      "Homme": 4.8,
+      "Femme": 6.7
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Occitanie",
+      "Homme": 7.4,
+      "Femme": 10.2
+    },
+    {
+      "trouble": "Dépression",
+      "region": "Hauts-de-France",
+      "Homme": 15.3,
+      "Femme": 21.2
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Hauts-de-France",
+      "Homme": 22.2,
+      "Femme": 23.8
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Hauts-de-France",
+      "Homme": 5.1,
+      "Femme": 6.7
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Hauts-de-France",
+      "Homme": 8.7,
+      "Femme": 11
+    }
+  ],
+  "2023": [
+    {
+      "trouble": "Dépression",
+      "region": "Île-de-France",
+      "Homme": 16.1,
+      "Femme": 21.3
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Île-de-France",
+      "Homme": 22.7,
+      "Femme": 25
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Île-de-France",
+      "Homme": 4.8,
+      "Femme": 7.3
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Île-de-France",
+      "Homme": 7.8,
+      "Femme": 11
+    },
+    {
+      "trouble": "Dépression",
+      "region": "Auvergne-Rhône-Alpes",
+      "Homme": 15.7,
+      "Femme": 22.5
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Auvergne-Rhône-Alpes",
+      "Homme": 23.9,
+      "Femme": 25
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Auvergne-Rhône-Alpes",
+      "Homme": 4.9,
+      "Femme": 7.2
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Auvergne-Rhône-Alpes",
+      "Homme": 8.6,
+      "Femme": 11.4
+    },
+    {
+      "trouble": "Dépression",
+      "region": "Nouvelle-Aquitaine",
+      "Homme": 17.9,
+      "Femme": 22.5
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Nouvelle-Aquitaine",
+      "Homme": 23,
+      "Femme": 24.6
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Nouvelle-Aquitaine",
+      "Homme": 5.1,
+      "Femme": 6.7
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Nouvelle-Aquitaine",
+      "Homme": 8.2,
+      "Femme": 11.2
+    },
+    {
+      "trouble": "Dépression",
+      "region": "Occitanie",
+      "Homme": 15.6,
+      "Femme": 21.9
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Occitanie",
+      "Homme": 22.7,
+      "Femme": 24.4
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Occitanie",
+      "Homme": 5.6,
+      "Femme": 6.5
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Occitanie",
+      "Homme": 8.3,
+      "Femme": 10.6
+    },
+    {
+      "trouble": "Dépression",
+      "region": "Hauts-de-France",
+      "Homme": 17.5,
+      "Femme": 21.3
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Hauts-de-France",
+      "Homme": 22.4,
+      "Femme": 25
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Hauts-de-France",
+      "Homme": 5.2,
+      "Femme": 7.3
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Hauts-de-France",
+      "Homme": 7.5,
+      "Femme": 10.8
+    }
+  ],
+  "2024": [
+    {
+      "trouble": "Dépression",
+      "region": "Île-de-France",
+      "Homme": 11.3,
+      "Femme": 14.8
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Île-de-France",
+      "Homme": 16.8,
+      "Femme": 21.9
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Île-de-France",
+      "Homme": 3.2,
+      "Femme": 4.4
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Île-de-France",
+      "Homme": 5.3,
+      "Femme": 8
+    },
+    {
+      "trouble": "Dépression",
+      "region": "Auvergne-Rhône-Alpes",
+      "Homme": 10.1,
+      "Femme": 16.5
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Auvergne-Rhône-Alpes",
+      "Homme": 14.2,
+      "Femme": 22.3
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Auvergne-Rhône-Alpes",
+      "Homme": 3.5,
+      "Femme": 5.4
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Auvergne-Rhône-Alpes",
+      "Homme": 4.7,
+      "Femme": 7
+    },
+    {
+      "trouble": "Dépression",
+      "region": "Nouvelle-Aquitaine",
+      "Homme": 11.7,
+      "Femme": 16.3
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Nouvelle-Aquitaine",
+      "Homme": 17.4,
+      "Femme": 21.6
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Nouvelle-Aquitaine",
+      "Homme": 3.7,
+      "Femme": 4.5
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Nouvelle-Aquitaine",
+      "Homme": 5.2,
+      "Femme": 7.4
+    },
+    {
+      "trouble": "Dépression",
+      "region": "Occitanie",
+      "Homme": 11.4,
+      "Femme": 14.5
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Occitanie",
+      "Homme": 16.6,
+      "Femme": 22
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Occitanie",
+      "Homme": 2.8,
+      "Femme": 5.2
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Occitanie",
+      "Homme": 5,
+      "Femme": 8.1
+    },
+    {
+      "trouble": "Dépression",
+      "region": "Hauts-de-France",
+      "Homme": 10.4,
+      "Femme": 15.3
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Hauts-de-France",
+      "Homme": 15.1,
+      "Femme": 22.1
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Hauts-de-France",
+      "Homme": 3.2,
+      "Femme": 4.8
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Hauts-de-France",
+      "Homme": 6.3,
+      "Femme": 7.9
+    }
+  ],
+  "2025": [
+    {
+      "trouble": "Dépression",
+      "region": "Île-de-France",
+      "Homme": 9.8,
+      "Femme": 14.8
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Île-de-France",
+      "Homme": 16.2,
+      "Femme": 22.1
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Île-de-France",
+      "Homme": 3.5,
+      "Femme": 5.3
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Île-de-France",
+      "Homme": 5,
+      "Femme": 8.5
+    },
+    {
+      "trouble": "Dépression",
+      "region": "Auvergne-Rhône-Alpes",
+      "Homme": 9.9,
+      "Femme": 15.7
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Auvergne-Rhône-Alpes",
+      "Homme": 16,
+      "Femme": 21.2
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Auvergne-Rhône-Alpes",
+      "Homme": 3.6,
+      "Femme": 4.7
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Auvergne-Rhône-Alpes",
+      "Homme": 5.5,
+      "Femme": 7
+    },
+    {
+      "trouble": "Dépression",
+      "region": "Nouvelle-Aquitaine",
+      "Homme": 10.7,
+      "Femme": 14.9
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Nouvelle-Aquitaine",
+      "Homme": 16,
+      "Femme": 21.1
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Nouvelle-Aquitaine",
+      "Homme": 3.1,
+      "Femme": 4.1
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Nouvelle-Aquitaine",
+      "Homme": 5.9,
+      "Femme": 7.8
+    },
+    {
+      "trouble": "Dépression",
+      "region": "Occitanie",
+      "Homme": 11.3,
+      "Femme": 15.2
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Occitanie",
+      "Homme": 15.7,
+      "Femme": 21.9
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Occitanie",
+      "Homme": 2.9,
+      "Femme": 4.6
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Occitanie",
+      "Homme": 5.4,
+      "Femme": 6.8
+    },
+    {
+      "trouble": "Dépression",
+      "region": "Hauts-de-France",
+      "Homme": 10.7,
+      "Femme": 14.2
+    },
+    {
+      "trouble": "Anxiété",
+      "region": "Hauts-de-France",
+      "Homme": 15.9,
+      "Femme": 19.7
+    },
+    {
+      "trouble": "Bipolarité",
+      "region": "Hauts-de-France",
+      "Homme": 3.6,
+      "Femme": 4.6
+    },
+    {
+      "trouble": "Stress post-traumatique",
+      "region": "Hauts-de-France",
+      "Homme": 5.7,
+      "Femme": 7.2
+    }
+  ]
+}
